@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in João Pessoa - Brazil.
+#### I'm a Full-Stack Developer living in João Pessoa - Brazil.
 
 - 🏢 I'm currently working at **Rocket.Chat**
 - ⚙️ I use daily: `.scss`, `.ts`, `.html`, `.js`, `.jsx`
